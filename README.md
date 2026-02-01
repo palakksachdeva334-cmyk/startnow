@@ -1,4 +1,4 @@
 # startnow
 Its my first repository
-Author-Palak Sachdeva(true)
-(interesting)
+Author-Palak Sachdeva(false)
+
